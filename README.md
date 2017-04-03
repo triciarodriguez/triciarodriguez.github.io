@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Tricia Rodriguez Page
 
-You can use the [editor on GitHub](https://github.com/triciarodriguez/triciarodriguez.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page contains the projects I am working on and have developed. 
 
 ### Markdown
 
